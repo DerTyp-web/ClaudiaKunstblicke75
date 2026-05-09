@@ -1,4 +1,10 @@
-.TabelleBilder {border: 1px solid;padding: 75px}
+.TabelleBilder {border: 3px solid;padding: 75px; border-color: purple}
 td {text-align: center;}
 
 .Impressum {background-color:lightgrey; border: 1px solid;padding: 50px}
+.ÜberMich {border: 1px none; padding: 50px; padding-top: 30px}
+.WasIchFotografiere {border: 1px none; padding: 50px; padding-top: 30px}
+.Preise   { 
+border: solid; border-collapse:collapse; 
+} 
+table {border-collapse:collapse;margin: auto}
